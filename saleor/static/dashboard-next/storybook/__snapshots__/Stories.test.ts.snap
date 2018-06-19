@@ -19143,6 +19143,11 @@ exports[`Storyshots Views / Collections / Collection details default 1`] = `
             class="Component-image-477"
             src="placeholder540x540.png"
           />
+          <span
+            class="MuiTypography-root-60 MuiTypography-caption-70 Component-link-478"
+          >
+            Remove
+          </span>
           <div
             class="Component-spacer-44"
           />
